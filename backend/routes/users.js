@@ -6,7 +6,7 @@ router.route('/').get((req, res) => {
 });
 
 router.route('/add').get((req, res) =>{
-
+    res.send('add users');
 });
 
 module.exports = router; 
