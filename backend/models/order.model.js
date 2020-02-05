@@ -9,8 +9,6 @@ const orderSchema = new Schema({
       unique: true,
       trim: true,
       minlength: 3
-  },
-    description: { required: true }
-},{
+},
       timestamps: true,
 });
