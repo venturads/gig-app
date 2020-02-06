@@ -2,10 +2,10 @@ const router = require('express').Router();
 let Order = require('../models/order.model');
 
 router.route('/').get((req, res) => {
-    res.send('user home');
+    res.send('orders home');
 });
 
-router.route('add').get((req, res) => {
+router.route('/add').get((req, res) => {
     res.send('orders add');
 });
 

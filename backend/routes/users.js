@@ -5,7 +5,7 @@ router.route('/').get((req, res) => {
     res.send('user home');
 });
 
-router.route('add').get((req, res) => {
+router.route('/add').get((req, res) => {
     res.send('user add');
 });
 
