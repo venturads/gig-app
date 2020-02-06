@@ -17,6 +17,10 @@ app.listen(5000, () => console.log('on server'));
 
 const userRouter = require('./routes/users');
 const orderRouter = require('./routes/orders');
+const loginRouter = require('./routes/login');
+const registerRouter = require('./routes/register');
 
 app.use('/users', userRouter);
 app.use('/orders', orderRouter);
+app.use('/login', loginRouter);
+app.use('/register', registerRouter);
