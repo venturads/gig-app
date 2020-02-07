@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.send('server home');
 });
 
-app.listen(5000, () => console.log('on server'));
+app.listen(5000, () => console.log('serving on localhost:5000'));
 
 const userRouter = require('./routes/users');
 const orderRouter = require('./routes/orders');
