@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gig-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/gig-app/static/js/main.525279b8.chunk.js",
+    "main.js.map": "/gig-app/static/js/main.525279b8.chunk.js.map",
+    "runtime-main.js": "/gig-app/static/js/runtime-main.b5b2ccda.js",
+    "runtime-main.js.map": "/gig-app/static/js/runtime-main.b5b2ccda.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/gig-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.38e21301.chunk.js": "/gig-app/static/js/2.38e21301.chunk.js",
+    "static/js/2.38e21301.chunk.js.map": "/gig-app/static/js/2.38e21301.chunk.js.map",
+    "index.html": "/gig-app/index.html",
+    "precache-manifest.dfbbfbb275505a5568897f82beda5b1f.js": "/gig-app/precache-manifest.dfbbfbb275505a5568897f82beda5b1f.js",
+    "service-worker.js": "/gig-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/gig-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/gig-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.38e21301.chunk.js.LICENSE": "/gig-app/static/js/2.38e21301.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b2ccda.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.38e21301.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.525279b8.chunk.js"
+  ]
+}
